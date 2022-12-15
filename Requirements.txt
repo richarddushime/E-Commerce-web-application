@@ -1,0 +1,4 @@
+django
+django_crispy_forms
+django_registration_redux
+django_renderpdf
